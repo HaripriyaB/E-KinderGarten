@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">E-KinderGarten</string>
+    <string name="you_clicked">You clicked</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="cow">Cow</string>
+    <string name="pig">Pig</string>
+    <string name="chicken">Chicken</string>
+    <string name="donkey">Donkey</string>
+    <string name="monkey">Monkey</string>
+    <string name="snake">Snake</string>
+    <string name="owl">Owl</string>
+    <string name="squirrel">Squirrel</string>
+    <string name="click_any_color">Click Any Color</string>
+    <string name="red">Red!</string>
+    <string name="green">Green!</string>
+    <string name="yellow">Yellow!</string>
+    <string name="white">White!</string>
+    <string name="black">Black!</string>
+    <string name="blue">Blue!</string>
+    <string name="maroon">Maroon!</string>
+    <string name="grey">Grey!</string>
+    <string name="orange">Orange!</string>
+    <string name="animals_pool">Animals Pool</string>
+    <string name="colors_click">Colors Click</string>
+    <string name="story_teller">Story Teller</string>
+    <string name="welcome">Welcome!</string>
+    <string name="touch_any_animal">Touch Any Animal</string>
+    <string name="the_dog_at_the_well">The dog at the well</string>
+    <string name="the_bear_and_the_2_friends">The bear and the 2 friends</string>
+    <string name="the_elephant_and_friends">The elephant and Friends</string>
+    <string name="the_golden_egg">The golden egg</string>
+    <string name="stop">Stop</string>
+</resources>

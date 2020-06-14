@@ -17,6 +17,11 @@ There will be a bunch of colors boxed and when clicked the color name pops up an
 * The last feature our EKG has is the story teller. 
 Few hand-picked short stories are available to be read out by the app. When any story is clicked the story will be read out with the text shown on screen.
 
+## Screenshots
+<img src="https://user-images.githubusercontent.com/34762451/84591571-34d83e80-ae5d-11ea-9eca-a11c2b9cabdb.png" width="200">
+<img src="https://user-images.githubusercontent.com/34762451/84591572-37d32f00-ae5d-11ea-9696-bf31764d4167.png" width="200">
+<img src="https://user-images.githubusercontent.com/34762451/84590996-9813a200-ae58-11ea-9eb1-9e6884b7ef4f.png" width="200">
+<img src="https://user-images.githubusercontent.com/34762451/84590917-e70d0780-ae57-11ea-817f-51a586bf782f.png" width="200">
 
 ## How I built it
 The application is built in Android-Studio using Kotlin as the language. The resources like animal voices and pictures are taken from google images and free animal sound websites. The UI is built in XML and there was no external libraries or extensions added. It is simple and fun full application for kids.
